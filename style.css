@@ -18,6 +18,10 @@
     top: 0;
     left: 0;
 }
+.game-over{
+    background-color: rgba(255, 31, 80, 0.678);
+    
+}
 .color-container{
     min-height: 60vh;
     width: 50%;
